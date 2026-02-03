@@ -84,3 +84,33 @@ Once the crypto sell order is complete, the funds will be available in your cash
 | <ol start="6"><li>Select <strong>Review.</strong></li></ol>                                                    | <ol start="6"><li>Select <strong>Cash out now</strong> to complete your transfer.</li></ol>                                            |
 | <ol start="7"><li>Select <strong>Withdraw cash</strong> to complete your transfer.</li></ol>                   |                                                                                                                                        |
 
+
+
+
+
+
+***
+
+## <mark style="background-color:green;">**Part (4):**</mark>** Mexico (MXN) - How to convert Sats to Pesos**
+
+### **4a. Receive Bitcoin via Lightning on Bitso**
+1. Sign in to your **Bitso** account (the most reliable exchange in Mexico).
+2. Select **Bitcoin (BTC)** from your wallet.
+3. Choose **Deposit** and select the **Lightning Network** option.
+4. Enter the amount and generate the invoice. Copy the invoice string (`lnbc...`).
+
+### **4b. Withdraw from Lightning Bounties to Bitso**
+1. Login to **Lightning Bounties** and go to your account.
+2. Select **Withdraw** and paste your Bitso invoice string.
+3. Click **Create**. The BTC will be reflected in your Bitso account instantly.
+
+### **4c. Cash out to your Mexican Bank Account**
+1. In Bitso, sell your **BTC** for **MXN (Mexican Pesos)**.
+2. Select **Withdraw** from your MXN balance.
+3. Choose **SPEI Transfer** (it's instant and 24/7 in Mexico).
+4. Enter your **CLABE** (18-digit bank code) and confirm the transfer.
+
+### 🥇 **Bonus: Spend Sats in Mexico without cashing out**
+* **[Bitrefill Mexico](https://www.bitrefill.com/mx/en/)**: Buy gift cards for **Amazon MX, OXXO, 7-Eleven, and Uber** directly with Sats.
+* **[Lala.app](https://lala.app/)**: Use crypto for local daily payments.
+* **Zap on Nostr**: Support creators globally using your Sats.

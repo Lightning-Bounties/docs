@@ -84,3 +84,32 @@ Once the crypto sell order is complete, the funds will be available in your cash
 | <ol start="6"><li>Select <strong>Review.</strong></li></ol>                                                    | <ol start="6"><li>Select <strong>Cash out now</strong> to complete your transfer.</li></ol>                                            |
 | <ol start="7"><li>Select <strong>Withdraw cash</strong> to complete your transfer.</li></ol>                   |                                                                                                                                        |
 
+***
+
+## <mark style="background-color:green;">**Part (4):**</mark>** Converting sats to Mexican Pesos (MXN) (example: Bitso)**
+
+{% hint style="info" %}
+This is an example "MXN cash-out" path if your exchange doesn't support direct MXN withdrawals. You'll typically pay more fees and wait longer than a direct Lightning-to-bank option, but it's widely available.
+{% endhint %}
+
+1. Create and verify an account on a Mexico-friendly exchange that supports MXN (example: Bitso).
+2. In that exchange, find **Deposit Bitcoin (BTC)** and copy your **Bitcoin (on-chain)** deposit address.
+3. In Coinbase, **send BTC** to that deposit address:
+   * Network: **Bitcoin** (not Lightning)
+   * Double-check the address and network before confirming.
+4. Wait for confirmations until the BTC balance shows up in your exchange account.
+5. Sell BTC for **MXN** (market or limit order, depending on your preference).
+6. Withdraw **MXN** to your bank (many Mexico exchanges support SPEI bank transfers).
+
+{% hint style="warning" %}
+Fees, KYC requirements, and supported rails (Lightning vs on-chain vs SPEI) can change. Always check the exchange's current deposit/withdraw screens before sending funds.
+{% endhint %}
+
+***
+
+## Bonus: What you can do with sats without converting to fiat
+
+- Pay Lightning invoices directly (apps/services that accept Bitcoin over Lightning).
+- Buy gift cards with sats (example: Bitrefill).
+- Tip creators and support open-source projects.
+- Pay for digital services that accept Lightning (VPNs, VPS, domains, etc. vary by vendor).

@@ -17,6 +17,7 @@
 * [POSTING A BOUNTY](getting-started/posting-a-bounty/README.md)
   * [Deposit Funds](getting-started/posting-a-bounty/deposit-funds.md)
   * [Create a GitHub issue and Submit a new reward](getting-started/posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
+  * [GitBook and Wiki Bounties](getting-started/posting-a-bounty/gitbook-and-wiki-bounties.md)
 * [MANAGING YOUR BOUNTY](getting-started/managing-your-bounty/README.md)
   * [Issue Lock Time](getting-started/managing-your-bounty/issue-lock-time.md)
   * [Add Reward to an Existing Bounty](getting-started/managing-your-bounty/add-reward-to-an-existing-bounty/README.md)

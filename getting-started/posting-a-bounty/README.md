@@ -53,3 +53,7 @@ _For this example we will set the bounty for 2 weeks._
 {% endstepper %}
 
 #### :tada: Congrats! You just posted your first bounty!
+
+{% content-ref url="gitbook-and-wiki-bounties.md" %}
+[gitbook-and-wiki-bounties.md](gitbook-and-wiki-bounties.md)
+{% endcontent-ref %}

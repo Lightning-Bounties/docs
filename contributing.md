@@ -228,7 +228,7 @@ _Amounts vary based on complexity and Bitcoin price_
 **Global Accessibility**
 
 * Simplifying US-centric references
-* Nostr Guide's For Lightning Bounties
+* Nostr guides for Lightning Bounties
 * Explain Bitcoin terminology for newcomers
 * Including multiple Lightning wallet guides
 * Clarifying payment processing variations

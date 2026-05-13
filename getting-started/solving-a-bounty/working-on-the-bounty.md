@@ -56,9 +56,9 @@ Create a pull request to the bounty poster repo.
 
 ***
 
-### 1. Go to your merged PR and Click Into It
+### 1. Go to your merged PR and click into it
 
-<figure><img src="https://images.tango.us/workflows/2cc8efaf-a4f0-4968-9904-46440dbc5702/steps/4e2d550c-f01d-4237-a4f7-c6fe181421dd/62131c99-b762-490b-a637-812a364fee5a.png?crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.1544&#x26;fp-y=0.5551&#x26;fp-z=2.2887&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=236&#x26;mark-y=357&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0zNzYmaD03MiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt="1. Go to your merged PR and Click Into It"><figcaption><p>Step 1 </p></figcaption></figure>
+<figure><img src="https://images.tango.us/workflows/2cc8efaf-a4f0-4968-9904-46440dbc5702/steps/4e2d550c-f01d-4237-a4f7-c6fe181421dd/62131c99-b762-490b-a637-812a364fee5a.png?crop=focalpoint&#x26;fit=crop&#x26;fp-x=0.1544&#x26;fp-y=0.5551&#x26;fp-z=2.2887&#x26;w=1200&#x26;border=2%2CF4F2F7&#x26;border-radius=8%2C8%2C8%2C8&#x26;border-radius-inner=8%2C8%2C8%2C8&#x26;blend-align=bottom&#x26;blend-mode=normal&#x26;blend-x=0&#x26;blend-w=1200&#x26;blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&#x26;mark-x=236&#x26;mark-y=357&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0zNzYmaD03MiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt="1. Go to your merged PR and click into it"><figcaption><p>Step 1 </p></figcaption></figure>
 
 ### 2. Click the "..." button at the top-right of your PR description
 
@@ -153,7 +153,7 @@ Once the Pull Request gets approved, the developer can claim the reward
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-### 4.1 - Click on "Claim Reward" and add pull requested number
+### 4.1 - Click on "Claim Reward" and add the pull request number
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 

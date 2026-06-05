@@ -33,3 +33,6 @@ Whether you're a bounty hunter solving critical issues or a project owner securi
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="resources/frequently-asked-questions/"><strong>Frequently Asked Questions</strong></a></td><td><a href=".gitbook/assets/FAQ.png">FAQ.png</a></td><td><a href="resources/frequently-asked-questions/">frequently-asked-questions</a></td></tr><tr><td align="center"><a href="resources/glossary-work-in-progress/"><strong>Quick References</strong></a></td><td><a href=".gitbook/assets/quick_ref.png">quick_ref.png</a></td><td><a href="resources/glossary-work-in-progress/">glossary-work-in-progress</a></td></tr><tr><td align="center"><a href="resources/external-resources/"><strong>External Resources</strong></a></td><td><a href=".gitbook/assets/external_resources.png">external_resources.png</a></td><td><a href="resources/external-resources/">external-resources</a></td></tr></tbody></table>
 
 ## ⚡ Powered By Open-Source ⚡
+
+---
+*Fixed via automated bounty hunter for issue #8.*

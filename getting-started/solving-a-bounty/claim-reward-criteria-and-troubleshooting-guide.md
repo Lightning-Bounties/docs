@@ -258,3 +258,24 @@ _Both steps are essential for successful reward processing_
 {% endhint %}
 
 For additional assistance, join the Lightning Bounties [Discord](https://discord.gg/zBxj4x4Cbq) community.
+
+***
+
+## Common platform error messages
+
+| Platform message | Meaning | What to do |
+|------------------|---------|------------|
+| *Invalid pull request. Make sure it is merged into default branch.* | PR is still open, draft, or not merged to `main`/`master` | Wait for merge into the repository default branch, then claim again |
+| *No winner found* | Issue not closed/linked, or claim not ready | Confirm PR body has `close #N`, issue is closed by the merge, then retry |
+| Reward shows locked / claim does nothing | Lock time not finished (`unlocks_at` in the future) | Wait until the bounty unlocks, then claim |
+| Logged in but claim fails for your PR | Different GitHub identity | Log out of Lightning Bounties and log in with the **same** GitHub account that opened the PR |
+
+### Quick pre-claim checklist
+
+1. PR shows **Merged** on GitHub into the **default** branch  
+2. PR description contains `close #<issue-number>` (not only a later comment)  
+3. GitHub issue is **Closed**  
+4. LB issue page shows **no Winner** trophy yet  
+5. Reward lock time has passed  
+6. You are logged into LB as the PR author  
+

@@ -130,3 +130,35 @@ You often do not need to convert to MXN. You can:
 - Spend sats at Lightning-enabled merchants (map: https://btcmap.org/)
 - Buy gift cards / products that accept Lightning (directory: https://lightningnetworkstores.com/)
 - Pay friends or freelancers who accept Lightning
+
+***
+
+## <mark style="background-color:green;">**Part (4):**</mark>** Mexico — converting sats to Mexican Pesos (MXN)**
+
+***
+
+Mexico-specific notes. Use **MXN** as local currency where Coinbase (or your exchange) offers it.
+
+### Recommended flow
+
+1. Withdraw sats from Lightning Bounties via a **Lightning invoice** into Coinbase (or another LN-capable exchange).
+2. Sell BTC into your **MXN cash balance**.
+3. Cash out MXN to a linked Mexican bank account (CLABE) if supported.
+
+### Alternatives
+
+- LN → Bitso / other Mexican exchanges → MXN → bank  
+- Keep spending on Lightning (tips, merchants) without converting to fiat  
+
+{% hint style="warning" %}
+Exchange support and banking rules change. Confirm current product availability and fees before large transfers.
+{% endhint %}
+
+### Bonus: use sats without fiat
+
+- Pay Lightning merchants  
+- Zap open-source contributors  
+- Move sats between LN wallets for everyday spend  
+
+See also: [Use Lightning Network](https://uselightning.network/)
+

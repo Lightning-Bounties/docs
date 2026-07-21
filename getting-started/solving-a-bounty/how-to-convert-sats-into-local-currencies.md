@@ -94,7 +94,7 @@ If you want to end up with MXN in a Mexican bank account, the common flow is:
 
 ### **4a. Choose an exchange that supports MXN withdrawals**
 
-The exchange you choose should be able to:
+Examples people in Mexico often use include Coinbase (where MXN is available) and Bitso. The exchange you choose should be able to:
 - Hold an MXN balance
 - Let you sell BTC -> MXN
 - Withdraw MXN to a Mexican bank account (often via CLABE)
@@ -104,6 +104,8 @@ Rules, fees, and availability can change. If you are moving a meaningful amount,
 {% endhint %}
 
 ### **4b. Deposit BTC to the exchange**
+
+If you earned sats on Lightning Bounties, prefer a **Lightning deposit** when the exchange supports it (generate a LN invoice in the exchange, withdraw from LB). Otherwise:
 
 1. Create a BTC deposit address in the exchange app.
 2. Send BTC from your current wallet/exchange to that deposit address.
@@ -130,35 +132,3 @@ You often do not need to convert to MXN. You can:
 - Spend sats at Lightning-enabled merchants (map: https://btcmap.org/)
 - Buy gift cards / products that accept Lightning (directory: https://lightningnetworkstores.com/)
 - Pay friends or freelancers who accept Lightning
-
-***
-
-## <mark style="background-color:green;">**Part (4):**</mark>** Mexico — converting sats to Mexican Pesos (MXN)**
-
-***
-
-Mexico-specific notes. Use **MXN** as local currency where Coinbase (or your exchange) offers it.
-
-### Recommended flow
-
-1. Withdraw sats from Lightning Bounties via a **Lightning invoice** into Coinbase (or another LN-capable exchange).
-2. Sell BTC into your **MXN cash balance**.
-3. Cash out MXN to a linked Mexican bank account (CLABE) if supported.
-
-### Alternatives
-
-- LN → Bitso / other Mexican exchanges → MXN → bank  
-- Keep spending on Lightning (tips, merchants) without converting to fiat  
-
-{% hint style="warning" %}
-Exchange support and banking rules change. Confirm current product availability and fees before large transfers.
-{% endhint %}
-
-### Bonus: use sats without fiat
-
-- Pay Lightning merchants  
-- Zap open-source contributors  
-- Move sats between LN wallets for everyday spend  
-
-See also: [Use Lightning Network](https://uselightning.network/)
-

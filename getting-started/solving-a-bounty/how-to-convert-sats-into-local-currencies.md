@@ -94,7 +94,7 @@ If you want to end up with MXN in a Mexican bank account, the common flow is:
 
 ### **4a. Choose an exchange that supports MXN withdrawals**
 
-The exchange you choose should be able to:
+Examples people in Mexico often use include Coinbase (where MXN is available) and Bitso. The exchange you choose should be able to:
 - Hold an MXN balance
 - Let you sell BTC -> MXN
 - Withdraw MXN to a Mexican bank account (often via CLABE)
@@ -104,6 +104,8 @@ Rules, fees, and availability can change. If you are moving a meaningful amount,
 {% endhint %}
 
 ### **4b. Deposit BTC to the exchange**
+
+If you earned sats on Lightning Bounties, prefer a **Lightning deposit** when the exchange supports it (generate a LN invoice in the exchange, withdraw from LB). Otherwise:
 
 1. Create a BTC deposit address in the exchange app.
 2. Send BTC from your current wallet/exchange to that deposit address.

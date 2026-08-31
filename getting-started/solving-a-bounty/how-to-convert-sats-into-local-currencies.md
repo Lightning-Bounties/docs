@@ -1,5 +1,7 @@
 # How to Convert Sats into Local Currencies
 
+- [Sats to MXN (Mexico)](../../docs/solve-a-bounty/sats-to-mxn.md)
+
 ## Getting Started
 
 To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exchange), follow these steps. The process remains similar no matter where you're transferring your funds.

@@ -14,6 +14,7 @@
   * [Withdrawing Funds](getting-started/solving-a-bounty/withdraw-funds.md)
   * [Working on Opensource Frontend: lb-next](getting-started/solving-a-bounty/working-on-opensource-frontend-lb-next.md)
   * [How to Convert Sats into Local Currencies](getting-started/solving-a-bounty/how-to-convert-sats-into-local-currencies.md)
+  * [Convert Sats to MXN (Mexico)](docs/solve-a-bounty/sats-to-mxn.md)
 * [POSTING A BOUNTY](getting-started/posting-a-bounty/README.md)
   * [Deposit Funds](getting-started/posting-a-bounty/deposit-funds.md)
   * [Create a GitHub issue and Submit a new reward](getting-started/posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)

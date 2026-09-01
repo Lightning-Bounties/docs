@@ -508,7 +508,7 @@ A [BOLT 11 Lightning invoice ](https://www.whatisbitcoin.com/lightning-network/b
 
 The platform provides **real-time payment tracking** and **transparent reward systems**
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt="Sceenshot of a Pop-up reading &#x22;Payment recieved; reward added! Refreshing in 5 secs...&#x22;"><figcaption><p>Should See This pop-up</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt="Screenshot of a Pop-up reading &#x22;Payment received; reward added! Refreshing in 5 secs...&#x22;"><figcaption><p>Should See This pop-up</p></figcaption></figure>
 
 **See who contributed at the bottom**
 

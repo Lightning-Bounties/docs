@@ -13,7 +13,7 @@ The reward does **NOT** automatically become revoked after the lock time is over
 * If a reward is unlocked, this simply means that that reward could be expire by the poster.
 {% endhint %}
 
-Lock time helps bounty hunters know the reward will be available by the time they submit their solution. But being able to expire rewards is neccessary because sometimes you solve the issue yourself or your priorities for development change.
+Lock time helps bounty hunters know the reward will be available by the time they submit their solution. But being able to expire rewards is necessary because sometimes you solve the issue yourself or your priorities for development change.
 
 <sub>_We recommend two weeks as a standard lock time, to give your hunters time to submit a PR, but also a short enough time to iterate on your bounty postings and format._</sub>
 
@@ -51,7 +51,7 @@ Lock time helps bounty hunters know the reward will be available by the time the
 * **Best Practice:**
   * Two weeks is suggested as a standard lock time, balancing developer opportunity and bounty iteration.
 
-<figure><img src="../../.gitbook/assets/Locked_Bounty.png" alt="Screenshot image of a A locked bounty on app.lightningbounties.com"><figcaption><p><em>A locked bounty with remaining lock time displayed.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Locked_Bounty.png" alt="Screenshot image of a locked bounty on app.lightningbounties.com"><figcaption><p><em>A locked bounty with remaining lock time displayed.</em></p></figcaption></figure>
 
 ***
 

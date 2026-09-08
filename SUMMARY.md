@@ -54,7 +54,7 @@
   * [Discord](https://discord.gg/zBxj4x4Cbq)
   * [GitHub](https://github.com/lightning-Bounties)
   * [Twitter](https://x.com/LBounties)
-  * [Nostr](nostr:https://jumble.social/users/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj)
+  * [Nostr](https://jumble.social/users/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj)
   * [LinkedIn](https://www.linkedin.com/company/lightning-bounties/)
   * [YouTube](https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX)
 * [External resources](resources/external-resources/README.md)

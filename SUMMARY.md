@@ -52,7 +52,7 @@
   * [Docs](https://docs.lightningbounties.com/)
   * [Blog](https://blog.lightningbounties.com/)
   * [Discord](https://discord.gg/zBxj4x4Cbq)
-  * [GitHub](https://github.com/lightning-Bounties)
+  * [GitHub](https://github.com/Lightning-Bounties)
   * [Twitter](https://x.com/LBounties)
   * [Nostr](nostr:https://jumble.social/users/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj)
   * [LinkedIn](https://www.linkedin.com/company/lightning-bounties/)

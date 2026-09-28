@@ -70,7 +70,7 @@ Before you begin the withdrawal process, make sure you have:
 * The system will process your payment, which typically completes within seconds
 * Check your Lightning wallet to confirm receipt of funds
 
-<figure><img src="../../.gitbook/assets/paymentmodel.JPG" alt="Payment initiated successfully. But not confirmed yet notification screen shot"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/paymentmodel.JPG" alt="Payment initiated successfully. But not confirmed yet notification screenshot"><figcaption></figcaption></figure>
 
 ### Balance Display Features
 
@@ -79,7 +79,7 @@ Lightning Bounties provides flexible ways to view your balance:
 * **Toggle between Sats and Fiat**: Click on your displayed toggle and shows balance (e.g., 60 sats & "0.06") to switch between sats and USD display formats
 * **Reserved Funds Display**: The platform shows any funds that are currently reserved for bounties  that you posted and are not yet solved.&#x20;
 
-<figure><img src="../../.gitbook/assets/toggleSatsUSD.JPG" alt="Screen Shot Showing Balance Display on Your Lightning Bounties Profile"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/toggleSatsUSD.JPG" alt="Screenshot showing balance Display on Your Lightning Bounties Profile"><figcaption></figcaption></figure>
 
 ### Invoice Decoder Feature
 

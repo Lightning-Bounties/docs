@@ -142,14 +142,13 @@ git push origin improve-bounty-guide
 
 To earn Bitcoin bounties for your contributions, you **must** include the `close #[issue-number]` syntax in your pull request description.&#x20;
 
-This connects your PR to the Lightning Bounties issue and triggers automatic payment processing.
+This links your PR to the Lightning Bounties issue. After the PR is merged, complete **Claim Reward** and **Check** on the platform; linking the issue alone does not claim the reward.
 {% endhint %}
 
 **Important Notes:**
 
 * The `close` keyword must be in the PR description itself, not in regular comments
-* Adding this connection after merging will automatically trigger Lightning Bounty payment
-* If you forget to add this initially, you can edit your merged PR description later
+* If the issue link was missing when your PR merged, follow the troubleshooting guide below; editing the description alone does not confirm eligibility or payment
 
 ### **If You Forgot the Close Syntax**
 
@@ -180,7 +179,7 @@ If you cannot edit the PR, ask the repository owner to add the `close` syntax fo
    * Click on "Claim Reward"
    * Add your pull request number
    * Click the "Check" button to verify eligibility
-4. **Receive Payment**: The reward will be added to your balance and paid instantly via the Lightning Network
+4. **Check Your Balance**: Once eligibility is verified, confirm that the reward appears in your Lightning Bounties balance. Withdrawing it to a Lightning wallet is a separate step; see [Withdrawing Funds](getting-started/solving-a-bounty/withdraw-funds.md).
 
 <figure><img src=".gitbook/assets/solvedCard (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -189,7 +188,7 @@ If you cannot edit the PR, ask the repository owner to add the `close` syntax fo
 * Your pull request must be merged
 * The PR description must contain `close #[issue-number]` syntax
 * Lightning Bounties uses the GitHub API as an oracle to prevent fraudulent claims
-* Payments are processed automatically when all conditions are met
+* Complete **Claim Reward** and **Check** after merging, then confirm the credited balance
 
 ### Common Documentation Bounties
 

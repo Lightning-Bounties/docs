@@ -80,7 +80,7 @@ Create a pull request to the bounty poster repo.
 
 ### # That's it!
 
-This connects your PR to the issue and will trigger your bounty payment automatically.
+This links your PR to the issue. After the PR is merged, open the bounty on Lightning Bounties and complete **Claim Reward** and **Check**. Linking the issue alone does not claim the reward.
 
 ***
 
@@ -88,7 +88,7 @@ This connects your PR to the issue and will trigger your bounty payment automati
 
 * The `close`keyword must be in the PR description itself, not in regular comments.
 
-- Adding this connection after merging will automatically trigger the lightning bounty payment.&#x20;
+- If the issue link was missing when your PR merged, follow the [Claim Reward Criteria & Troubleshooting Guide](claim-reward-criteria-and-troubleshooting-guide.md). Editing the description alone does not confirm eligibility or payment.
 
 * If you cannot edit the PR, ask the repo owner to add the `close`syntax for you.
 
@@ -149,7 +149,7 @@ git push origin fix-bounty-issue-reference
 
 ## 4 - Claim reward in [app.lightningbounties.com](https://app.lightningbounties.com/)
 
-Once the Pull Request gets approved, the developer can claim the reward
+Once the pull request is merged, the developer can request eligibility verification through **Claim Reward** and **Check**. Approval without merging is not sufficient.
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
